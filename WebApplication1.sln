@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aspnet.core.webapi-namespacebased", "WebApplication1\aspnet.core.webapi-namespacebased.csproj", "{B0433163-662F-4186-880C-E4302D80E06A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aspnet.core-method1", "aspnet.core-method1\aspnet.core-method1.csproj", "{5A1692BD-A173-414F-B194-C76CACBD488F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperMediaApi", "HyperMediaApi\HyperMediaApi.csproj", "{39736303-8C11-4881-876D-25068EF036C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0433163-662F-4186-880C-E4302D80E06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0433163-662F-4186-880C-E4302D80E06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0433163-662F-4186-880C-E4302D80E06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0433163-662F-4186-880C-E4302D80E06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1692BD-A173-414F-B194-C76CACBD488F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1692BD-A173-414F-B194-C76CACBD488F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1692BD-A173-414F-B194-C76CACBD488F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1692BD-A173-414F-B194-C76CACBD488F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39736303-8C11-4881-876D-25068EF036C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39736303-8C11-4881-876D-25068EF036C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39736303-8C11-4881-876D-25068EF036C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39736303-8C11-4881-876D-25068EF036C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D4B941B-22C5-430F-8992-DA91CF92D4C5}
+	EndGlobalSection
+EndGlobal

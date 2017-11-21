@@ -1,0 +1,11 @@
+D:\downloads\webapplication1\aspnet.core-method1\bin\Debug\netcoreapp2.0\aspnet.core-method1.deps.json
+D:\downloads\webapplication1\aspnet.core-method1\bin\Debug\netcoreapp2.0\aspnet.core-method1.runtimeconfig.json
+D:\downloads\webapplication1\aspnet.core-method1\bin\Debug\netcoreapp2.0\aspnet.core-method1.runtimeconfig.dev.json
+D:\downloads\webapplication1\aspnet.core-method1\bin\Debug\netcoreapp2.0\aspnet.core-method1.dll
+D:\downloads\webapplication1\aspnet.core-method1\obj\Debug\netcoreapp2.0\aspnet.core-method1.csprojResolveAssemblyReference.cache
+D:\downloads\webapplication1\aspnet.core-method1\obj\Debug\netcoreapp2.0\aspnet.core-method1.csproj.CoreCompileInputs.cache
+D:\downloads\webapplication1\aspnet.core-method1\obj\Debug\netcoreapp2.0\aspnet.core-method1.AssemblyInfoInputs.cache
+D:\downloads\webapplication1\aspnet.core-method1\obj\Debug\netcoreapp2.0\aspnet.core-method1.AssemblyInfo.cs
+D:\downloads\webapplication1\aspnet.core-method1\bin\Debug\netcoreapp2.0\aspnet.core-method1.pdb
+D:\downloads\webapplication1\aspnet.core-method1\obj\Debug\netcoreapp2.0\aspnet.core-method1.dll
+D:\downloads\webapplication1\aspnet.core-method1\obj\Debug\netcoreapp2.0\aspnet.core-method1.pdb

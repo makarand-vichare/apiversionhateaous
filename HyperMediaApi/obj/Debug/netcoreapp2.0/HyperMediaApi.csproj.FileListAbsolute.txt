@@ -1,0 +1,11 @@
+D:\codepractice-prj\ApiVersioning-Approach\HyperMediaApi\bin\Debug\netcoreapp2.0\HyperMediaApi.deps.json
+D:\codepractice-prj\ApiVersioning-Approach\HyperMediaApi\bin\Debug\netcoreapp2.0\HyperMediaApi.runtimeconfig.json
+D:\codepractice-prj\ApiVersioning-Approach\HyperMediaApi\bin\Debug\netcoreapp2.0\HyperMediaApi.runtimeconfig.dev.json
+D:\codepractice-prj\ApiVersioning-Approach\HyperMediaApi\bin\Debug\netcoreapp2.0\HyperMediaApi.dll
+D:\codepractice-prj\ApiVersioning-Approach\HyperMediaApi\obj\Debug\netcoreapp2.0\HyperMediaApi.csprojResolveAssemblyReference.cache
+D:\codepractice-prj\ApiVersioning-Approach\HyperMediaApi\obj\Debug\netcoreapp2.0\HyperMediaApi.csproj.CoreCompileInputs.cache
+D:\codepractice-prj\ApiVersioning-Approach\HyperMediaApi\obj\Debug\netcoreapp2.0\HyperMediaApi.AssemblyInfoInputs.cache
+D:\codepractice-prj\ApiVersioning-Approach\HyperMediaApi\obj\Debug\netcoreapp2.0\HyperMediaApi.AssemblyInfo.cs
+D:\codepractice-prj\ApiVersioning-Approach\HyperMediaApi\bin\Debug\netcoreapp2.0\HyperMediaApi.pdb
+D:\codepractice-prj\ApiVersioning-Approach\HyperMediaApi\obj\Debug\netcoreapp2.0\HyperMediaApi.dll
+D:\codepractice-prj\ApiVersioning-Approach\HyperMediaApi\obj\Debug\netcoreapp2.0\HyperMediaApi.pdb
